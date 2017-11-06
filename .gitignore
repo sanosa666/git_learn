@@ -1,2 +1,11 @@
 
 .idea/
+image/cache/
+
+#files
+system/storage/cache/*
+system/storage/logs/*
+admin/config.php
+/test.php
+/config.php
+/.htaccess
